@@ -10,7 +10,7 @@ darcs-dev / fh.daimi.au.dk:/users/cgd/code/openengine
 darcs /projects/Boxes http://openengine.dk/code/projects/Boxes
 darcs-dev /projects/Boxes fh.daimi.au.dk:/users/cgd/code/projects/Boxes
 
-dist /extensions/RBPhysics/RBPhysics.dist	fh.daimi.au.dk:/users/cgd/code/extensions/RBPhysics/RBPhysics.dist
+dist /extensions/RBPhysics/RBPhysics.dist	http://openengine.dk/code/extensions/RBPhysics/RBPhysics.dist
 
 
 # required extensions
