@@ -10,6 +10,9 @@ darcs-dev / fh.daimi.au.dk:/users/cgd/code/openengine
 darcs /projects/Boxes http://openengine.dk/code/projects/Boxes
 darcs-dev /projects/Boxes fh.daimi.au.dk:/users/cgd/code/projects/Boxes
 
+dist /extensions/RBPhysics/RBPhysics.dist	fh.daimi.au.dk:/users/cgd/code/extensions/RBPhysics/RBPhysics.dist
+
+
 # required extensions
 darcs /extensions/ActionMappers          http://openengine.dk/code/extensions/ActionMappers
 darcs /extensions/SetupHelpers           http://openengine.dk/code/extensions/SetupHelpers
@@ -23,7 +26,6 @@ darcs /extensions/OBJResource            http://openengine.dk/code/extensions/OB
 darcs /extensions/AccelerationStructures http://openengine.dk/code/extensions/AccelerationStructures
 darcs /extensions/HeightMap              http://openengine.dk/code/extensions/HeightMap
 darcs /extensions/TexUtils               http://openengine.dk/code/extensions/TexUtils
-darcs /extensions/RBPhysics              http://openengine.dk/code/extensions/RBPhysics
 darcs /extensions/MeshUtils              http://openengine.dk/code/extensions/MeshUtils
 darcs /extensions/OpenGLSelection        http://openengine.dk/code/extensions/OpenGLSelection
 
@@ -40,7 +42,6 @@ darcs-dev /extensions/OBJResource            fh.daimi.au.dk:/users/cgd/code/exte
 darcs-dev /extensions/AccelerationStructures fh.daimi.au.dk:/users/cgd/code/extensions/AccelerationStructures
 darcs-dev /extensions/HeightMap              fh.daimi.au.dk:/users/cgd/code/extensions/HeightMap
 darcs-dev /extensions/TexUtils               fh.daimi.au.dk:/users/cgd/code/extensions/TexUtils
-darcs-dev /extensions/RBPhysics              fh.daimi.au.dk:/users/cgd/code/extensions/RBPhysics
 darcs-dev /extensions/MeshUtils              fh.daimi.au.dk:/users/cgd/code/extensions/MeshUtils
 darcs-dev /extensions/OpenGLSelection              fh.daimi.au.dk:/users/cgd/code/extensions/OpenGLSelection
 
